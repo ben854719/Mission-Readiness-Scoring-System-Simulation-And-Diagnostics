@@ -7,3 +7,5 @@ This project implements a spec‑driven Mission Readiness Intelligence & Diagnos
 ## Video of the project:
 
 ## Key Features:
+
+Mission Readiness Intelligence & Diagnostics System (MRIDS) presents a set of capabilities that highlight its focus on simulation‑driven readiness assessment, agentic AI reasoning, and spec‑driven operational diagnostics. These features emphasize transparent decision support, measurable performance improvements, and audit‑ready intelligence outputs.
