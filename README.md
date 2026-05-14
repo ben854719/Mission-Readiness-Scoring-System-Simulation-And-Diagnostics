@@ -54,6 +54,7 @@ Mission Readiness Intelligence & Diagnostics System (MRIDS) presents a set of ca
 - TypeScript
 
   ## Python: Required for all major Component:
+  
   - Cryptography
   - JSON
   - Python
