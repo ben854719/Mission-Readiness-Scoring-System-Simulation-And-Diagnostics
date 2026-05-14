@@ -51,8 +51,7 @@ Mission Readiness Intelligence & Diagnostics System (MRIDS) presents a set of ca
 - MCP Server
 - Fastmcp
 - Gemini 3 flash
-- TypeScript
-
+  
   ## Python: Required for all major Component:
   
   - Cryptography
